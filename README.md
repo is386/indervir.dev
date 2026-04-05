@@ -6,6 +6,4 @@ My SSH profile page built using Golang and the Charm suite of TUI libraries. You
 
 I first had to buy a domain, ended up settling on `indervir.dev`. I routed that domain to my server's IP. After running the application on port 22 I was in business.
 
-# Gif of the ssh page
-
 ![image](./docs/page.gif)
